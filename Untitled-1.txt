@@ -1,0 +1,52 @@
+<header class="head-menu">
+        <!-- <div class="sassy"> -->
+            <div class="all-bar1"> 
+                <div class="Search-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32" stroke-width="1.5" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="m26 26-10-10m0 0A7.5 7.5 0 1 0 5.196 5.196 7.5 7.5 0 0 0 15.803 15.803Z"></path>
+                    </svg>
+                </div>
+                <div class="azure-logo">
+                    <div class="logo-one">
+                        <img src="./image.img/RE1Mu3b.png">
+                    </div>
+                    <div class="left-bl">
+                        <a href="#">|</a>
+                        <a href="#">Azure</a>
+                    </div>
+                    <div class="left">
+                        <a href="#">Explore </a>
+                      <div class="more"> 
+                        <div class ="more1">
+                         <a href="#"><span class="more-spanbtn0">More</span> <svg xmlns:xlink="http://www.w3.org/1999/xlink" class="sub-menu-icon" aria-hidden="true" role="img" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15" style="transform:rotate(180deg)"><rect width="15" height="15" fill="none"></rect><path fill="#111111" d="M14,12a1,1,0,0,1-.73-.32L7.5,5.47,1.76,11.65a1,1,0,0,1-1.4,0A1,1,0,0,1,.3,10.3l6.47-7a1,1,0,0,1,1.46,0l6.47,7a1,1,0,0,1-.06,1.4A1,1,0,0,1,14,12Z"></path></svg></a>        
+                        <a href="#"><span class="more-spanbtn1">Products</span> <svg xmlns:xlink="http://www.w3.org/1999/xlink" class="sub-menu-icon" aria-hidden="true" role="img" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15" style="transform:rotate(180deg)"><rect width="15" height="15" fill="none"></rect><path fill="#111111" d="M14,12a1,1,0,0,1-.73-.32L7.5,5.47,1.76,11.65a1,1,0,0,1-1.4,0A1,1,0,0,1,.3,10.3l6.47-7a1,1,0,0,1,1.46,0l6.47,7a1,1,0,0,1-.06,1.4A1,1,0,0,1,14,12Z"></path></svg></a>
+                        </div>        
+                        <a href="#"><span class="more-spanbtn2">Solutions</span><svg xmlns:xlink="http://www.w3.org/1999/xlink" class="sub-menu-icon" aria-hidden="true" role="img" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15" style="transform:rotate(180deg)"><rect width="15" height="15" fill="none"></rect><path fill="#111111" d="M14,12a1,1,0,0,1-.73-.32L7.5,5.47,1.76,11.65a1,1,0,0,1-1.4,0A1,1,0,0,1,.3,10.3l6.47-7a1,1,0,0,1,1.46,0l6.47,7a1,1,0,0,1-.06,1.4A1,1,0,0,1,14,12Z"></path></svg></a>                       
+                        <a href="#"><span class="more-spanbtn3">Pricing</span><svg xmlns:xlink="http://www.w3.org/1999/xlink" class="sub-menu-icon" aria-hidden="true" role="img" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15" style="transform:rotate(180deg)"><rect width="15" height="15" fill="none"></rect><path fill="#111111" d="M14,12a1,1,0,0,1-.73-.32L7.5,5.47,1.76,11.65a1,1,0,0,1-1.4,0A1,1,0,0,1,.3,10.3l6.47-7a1,1,0,0,1,1.46,0l6.47,7a1,1,0,0,1-.06,1.4A1,1,0,0,1,14,12Z"></path></svg></a>
+                        <a href="#"><span class="more-spanbtn4">Partners</span><svg xmlns:xlink="http://www.w3.org/1999/xlink" class="sub-menu-icon" aria-hidden="true" role="img" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15" style="transform:rotate(180deg)"><rect width="15" height="15" fill="none"></rect><path fill="#111111" d="M14,12a1,1,0,0,1-.73-.32L7.5,5.47,1.76,11.65a1,1,0,0,1-1.4,0A1,1,0,0,1,.3,10.3l6.47-7a1,1,0,0,1,1.46,0l6.47,7a1,1,0,0,1-.06,1.4A1,1,0,0,1,14,12Z"></path></svg></a>                      
+                        <a href="#"><span class="more-spanbtn5">Resources</span><svg xmlns:xlink="http://www.w3.org/1999/xlink" class="sub-menu-icon" aria-hidden="true" role="img" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15" style="transform:rotate(180deg)"><rect width="15" height="15" fill="none"></rect><path fill="#111111" d="M14,12a1,1,0,0,1-.73-.32L7.5,5.47,1.76,11.65a1,1,0,0,1-1.4,0A1,1,0,0,1,.3,10.3l6.47-7a1,1,0,0,1,1.46,0l6.47,7a1,1,0,0,1-.06,1.4A1,1,0,0,1,14,12Z"></path></svg></a>
+                       </div>                  
+                    </div>
+
+                </div>
+                <div class="right-last">
+                    <div class="right-search">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32" stroke-width="1.5" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="m26 26-10-10m0 0A7.5 7.5 0 1 0 5.196 5.196 7.5 7.5 0 0 0 15.803 15.803Z"></path>
+                    </svg>
+                     <div class="right">
+                       <a href="#">Search</a>
+                       <a href="#">Learn</a>
+                       <a href="#">Support</a>
+                       <a href="#">Contact Sales</a>
+                       <button class="btnn-primary">Get Started with Azure</button>
+                       <button class="btnn-outline">Sign In</button>
+                     </div>
+                    
+                
+                    </div>
+
+                </div>
+            </div>
+        <!-- </div>  -->
+    </header>
